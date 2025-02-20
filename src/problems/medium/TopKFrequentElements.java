@@ -22,9 +22,6 @@ Output: [7]
  */
 
 
-
-
-
     public class TopKFrequentElements {
 
         private static void test(int[] nums, int k, int[] expected) {
